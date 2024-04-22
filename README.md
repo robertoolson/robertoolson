@@ -1,4 +1,9 @@
-### Hi there 👋
+<img align="center" width="100%" alt="" src="https://github.com/robertoolson/robertoolson/blob/main/Imagenes/Roberto%20Olson.png" />
+
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Roberto Olson </a> <img src="https://komarev.com/ghpvc/?username=robertoolson" height="20px">
+
+Industrial and Systems Engineer transitioning to data science, with more than 6 years of experience in business development across e-commerce and food sectors. Currently honing my data science expertise through an intensive bootcamp, with a focus on employing statistical analysis and machine learning techniques to drive data-driven decision-making in dynamic environments.
+
 
 <!--
 **robertoolson/robertoolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://hit.yhype.me/github/profile?user_id=71295657)
