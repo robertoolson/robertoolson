@@ -9,7 +9,7 @@ Industrial and Systems Engineer transitioning to data science, with more than 6 
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="https://github.com/robertoolson/robertoolson/blob/main/Imagenes/Gif.gif" />
 
 - 🧮 I’m currently learning.
 - 👯 I’m looking to collaborate on any Data Science related project.
