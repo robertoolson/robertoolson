@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/robertoolson/robertoolson/blob/main/Imagenes/Roberto%20Olson.png" />
+<img align="center" width="100%" alt="" src="https://github.com/robertoolson/robertoolson/tree/main/Imagenes#:~:text=Roberto%20Olson%20(1).png" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Roberto Olson </a> <img src="https://komarev.com/ghpvc/?username=robertoolson" height="20px">
 
