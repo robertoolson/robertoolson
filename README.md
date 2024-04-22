@@ -6,6 +6,7 @@ Industrial and Systems Engineer transitioning to data science, with more than 6 
 
 <p><a href="https://www.linkedin.com/in/robertoolson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:robertolsonp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </p>
 <br>
+
 ## ⚡ A Few Quick Facts:
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
@@ -14,11 +15,11 @@ Industrial and Systems Engineer transitioning to data science, with more than 6 
 - 👯 I’m looking to collaborate on any Data Science related project.
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](mailto:robertolsonp@gmail.com)
-- 🧾 Check out my [resume]().
+- 🧾 Check out my [resume](CV/Data_Scientist_Roberto Olson.png).
 - 📺 I like creating tech videos [Youtube](https://www.youtube.com/channel/UCgP1b4ZrjhJe1sUbu_IUWMw).
 - ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
 
-- ## 🛠️ Languages and Tools I use:
+## 🛠️ Languages and Tools I use:
 
 <p align="center">  
     <a href="https://www.python.org" target="_blank"> 
