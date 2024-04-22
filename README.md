@@ -17,7 +17,7 @@ Industrial and Systems Engineer transitioning to data science, with more than 6 
 - 📫 How to reach me: [Gmail](mailto:robertolsonp@gmail.com)
 - 🧾 Check out my [resume](https://github.com/robertoolson/robertoolson/blob/main/CV/Data_Scientist_Roberto%20Olson.png).
 - 📺 I like creating tech videos [Youtube](https://www.youtube.com/channel/UCgP1b4ZrjhJe1sUbu_IUWMw).
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+- ⚡ Fun fact: I have become too lazy to create videos these days.. 🤣
 
 ## 🛠️ Languages and Tools I use:
 
