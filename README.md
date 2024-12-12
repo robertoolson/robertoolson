@@ -11,13 +11,12 @@ Industrial and Systems Engineer with over 6 years of experience in business deve
 
 <img align="right" src="https://github.com/robertoolson/robertoolson/blob/main/Imagenes/Gif.gif" />
 
-- 🧮 I’m currently learning.
 - 👯 I’m looking to collaborate on any Data Science related project.
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](mailto:robertolsonp@gmail.com)
 - 🧾 Check out my [resume](https://github.com/robertoolson/robertoolson/blob/main/CV/Data_Scientist_Roberto%20Olson.png).
 - 📺 I like creating tech videos [Youtube](https://www.youtube.com/channel/UCgP1b4ZrjhJe1sUbu_IUWMw).
-- ⚡ Fun fact: I have become too lazy to create videos these days.. 🤣
+- ⚡ Fun fact: I’ve been collecting so many creative video ideas lately that my list is longer than the time I have to make them!
 
 ## 🛠️ Languages and Tools I use:
 
