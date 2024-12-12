@@ -2,7 +2,7 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Roberto Olson </a> <img src="https://komarev.com/ghpvc/?username=robertoolson" height="20px">
 
-Industrial and Systems Engineer transitioning to data science, with more than 6 years of experience in business development across e-commerce and food sectors. Currently honing my data science expertise through an intensive bootcamp, with a focus on employing statistical analysis and machine learning techniques to drive data-driven decision-making in dynamic environments.
+Industrial and Systems Engineer with over 6 years of experience in business development, specializing in e-commerce and food sectors. Recently completed an intensive Data Science bootcamp, where I focused on applying statistical analysis and machine learning techniques to optimize e-commerce operations and enhance customer insights. Combining my expertise in engineering, business development, and data science to drive impactful, data-driven strategies in fast-paced digital environments.
 
 <p><a href="https://www.linkedin.com/in/robertoolson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:robertolsonp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </p>
 <br>
